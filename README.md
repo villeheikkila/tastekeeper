@@ -1,3 +1,5 @@
 ## Tastekeeper
 
-WIP
+### Tech Stack
+
+Typescript
